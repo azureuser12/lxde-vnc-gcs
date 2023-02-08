@@ -9,7 +9,7 @@ Step1
 go to https://console.cloud.google.com/home/ and click the terminal icon
 
 step2
-clone this repository by cop and paste this command: git clone https://github.com/azureuser12/lxdevncgcs
+clone this repository by cop and paste this command: git clone https://github.com/azureuser12/lxde-vnc-gcs
 
 
 cd lxderdpgcs
